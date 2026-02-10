@@ -6,8 +6,6 @@ Linux Cheat Sheets: Networking, Services &amp; Troubleshooting. Guías rápidas 
 - [Guías](#guías)
 - [Estructura del repositorio](#estructura-del-repositorio)
 - [Convenciones](#convenciones)
-- [Cómo contribuir](#cómo-contribuir)
-- [Licencia](#licencia)
 
 ---
 
