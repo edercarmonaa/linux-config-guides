@@ -13,7 +13,7 @@ Linux Cheat Sheets: Networking, Services &amp; Troubleshooting. Guías rápidas 
 
 ### RHEL
 - **Networking**
-  - [01 — NetworkManager: levantar NIC y dejarla persistente con `nmcli`](guides/rhel-10/network/01-networkmanager-nmcli-persistent-nic.md)
+  - [01 — NetworkManager: levantar NIC y dejarla persistente con `nmcli`](guides/rhel/network/01-networkmanager-nmcli-persistent-nic.md)
 
 > Nota: cada guía incluye secciones de **Verificación** y **Prueba final**  cuando aplique.
 
