@@ -5,7 +5,6 @@ Linux Cheat Sheets: Networking, Services &amp; Troubleshooting. Guías rápidas 
 
 - [Guías](#guías)
 - [Estructura del repositorio](#estructura-del-repositorio)
-- [Convenciones](#convenciones)
 
 ---
 
@@ -27,7 +26,6 @@ linux-config-guides/
 ├─ guides/
 │  ├─ rhel/
 │  │  ├─ network/
-│  │  │  └─ 01-networkmanager-nmcli-persistent-nic.md
 │  ├─ ubuntu/
 └─ assets/
    └─ images/
